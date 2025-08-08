@@ -1,5 +1,5 @@
 @echo off
 
-copy /Y Normal.dotm "%APPDATA%\Microsoft\Templates\Normal.dotm"
+copy /Y NormalX.dotm "%APPDATA%\Microsoft\Templates\Normal.dotm"
 
 pause
